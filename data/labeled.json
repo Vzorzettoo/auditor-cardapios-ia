@@ -1,0 +1,362 @@
+[
+  {
+    "text": "Pizza mussarela com molho de tomate e queijo",
+    "category": "pizza",
+    "split": "train"
+  },
+  {
+    "text": "Pizza calabresa com cebola e azeitonas",
+    "category": "pizza",
+    "split": "train"
+  },
+  {
+    "text": "Pizza portuguesa com ovos e presunto",
+    "category": "pizza",
+    "split": "train"
+  },
+  {
+    "text": "Pizza quatro queijos com gorgonzola",
+    "category": "pizza",
+    "split": "train"
+  },
+  {
+    "text": "Pizza napolitana de tomate fresco",
+    "category": "pizza",
+    "split": "train"
+  },
+  {
+    "text": "Pizza de frango com catupiry",
+    "category": "pizza",
+    "split": "train"
+  },
+  {
+    "text": "Pizza vegetariana com abobrinha",
+    "category": "pizza",
+    "split": "train"
+  },
+  {
+    "text": "Pizza de palmito e queijo",
+    "category": "pizza",
+    "split": "train"
+  },
+  {
+    "text": "Pizza de atum com cebola",
+    "category": "pizza",
+    "split": "test"
+  },
+  {
+    "text": "Pizza de cogumelos com queijo",
+    "category": "pizza",
+    "split": "test"
+  },
+  {
+    "text": "Pizza de rúcula e tomate seco",
+    "category": "pizza",
+    "split": "test"
+  },
+  {
+    "text": "Pizza de berinjela com mussarela",
+    "category": "pizza",
+    "split": "test"
+  },
+  {
+    "text": "Suco de laranja natural 400 ml",
+    "category": "bebida",
+    "split": "train"
+  },
+  {
+    "text": "Água mineral sem gás 500 ml",
+    "category": "bebida",
+    "split": "train"
+  },
+  {
+    "text": "Refrigerante cola em lata 350 ml",
+    "category": "bebida",
+    "split": "train"
+  },
+  {
+    "text": "Chá gelado de limão 300 ml",
+    "category": "bebida",
+    "split": "train"
+  },
+  {
+    "text": "Suco de maracujá natural",
+    "category": "bebida",
+    "split": "train"
+  },
+  {
+    "text": "Água de coco 330 ml",
+    "category": "bebida",
+    "split": "train"
+  },
+  {
+    "text": "Refrigerante guaraná 600 ml",
+    "category": "bebida",
+    "split": "train"
+  },
+  {
+    "text": "Limonada de limão fresco",
+    "category": "bebida",
+    "split": "train"
+  },
+  {
+    "text": "Suco de abacaxi com hortelã",
+    "category": "bebida",
+    "split": "test"
+  },
+  {
+    "text": "Café expresso sem açúcar",
+    "category": "bebida",
+    "split": "test"
+  },
+  {
+    "text": "Chá quente de camomila",
+    "category": "bebida",
+    "split": "test"
+  },
+  {
+    "text": "Vitamina de banana com leite",
+    "category": "bebida",
+    "split": "test"
+  },
+  {
+    "text": "Brownie de chocolate com nozes",
+    "category": "sobremesa",
+    "split": "train"
+  },
+  {
+    "text": "Pudim de leite condensado",
+    "category": "sobremesa",
+    "split": "train"
+  },
+  {
+    "text": "Sorvete de baunilha duas bolas",
+    "category": "sobremesa",
+    "split": "train"
+  },
+  {
+    "text": "Cookie de chocolate ao leite",
+    "category": "sobremesa",
+    "split": "train"
+  },
+  {
+    "text": "Bolo de cenoura com cobertura",
+    "category": "sobremesa",
+    "split": "train"
+  },
+  {
+    "text": "Torta de limão com merengue",
+    "category": "sobremesa",
+    "split": "train"
+  },
+  {
+    "text": "Brigadeiro de chocolate tradicional",
+    "category": "sobremesa",
+    "split": "train"
+  },
+  {
+    "text": "Mousse de maracujá com creme",
+    "category": "sobremesa",
+    "split": "train"
+  },
+  {
+    "text": "Brownie de cacau e castanha",
+    "category": "sobremesa",
+    "split": "test"
+  },
+  {
+    "text": "Pudim caseiro com caramelo",
+    "category": "sobremesa",
+    "split": "test"
+  },
+  {
+    "text": "Sorvete artesanal de morango",
+    "category": "sobremesa",
+    "split": "test"
+  },
+  {
+    "text": "Cookie de aveia e cacau",
+    "category": "sobremesa",
+    "split": "test"
+  },
+  {
+    "text": "Hambúrguer bovino com pão e queijo",
+    "category": "lanche",
+    "split": "train"
+  },
+  {
+    "text": "Sanduíche natural de frango",
+    "category": "lanche",
+    "split": "train"
+  },
+  {
+    "text": "Hambúrguer vegetal de lentilha",
+    "category": "lanche",
+    "split": "train"
+  },
+  {
+    "text": "Cachorro quente com salsicha",
+    "category": "lanche",
+    "split": "train"
+  },
+  {
+    "text": "Sanduíche de queijo e presunto",
+    "category": "lanche",
+    "split": "train"
+  },
+  {
+    "text": "Hambúrguer de frango empanado",
+    "category": "lanche",
+    "split": "train"
+  },
+  {
+    "text": "Wrap de frango com alface",
+    "category": "lanche",
+    "split": "train"
+  },
+  {
+    "text": "Sanduíche de atum com maionese",
+    "category": "lanche",
+    "split": "train"
+  },
+  {
+    "text": "Hambúrguer de cogumelos no pão",
+    "category": "lanche",
+    "split": "test"
+  },
+  {
+    "text": "Sanduíche de pernil e cebola",
+    "category": "lanche",
+    "split": "test"
+  },
+  {
+    "text": "Cachorro quente com molho de tomate",
+    "category": "lanche",
+    "split": "test"
+  },
+  {
+    "text": "Wrap vegetariano de grão-de-bico",
+    "category": "lanche",
+    "split": "test"
+  },
+  {
+    "text": "Frango grelhado com arroz e feijão",
+    "category": "refeicao",
+    "split": "train"
+  },
+  {
+    "text": "Carne de panela com purê e arroz",
+    "category": "refeicao",
+    "split": "train"
+  },
+  {
+    "text": "Feijoada com arroz e farofa",
+    "category": "refeicao",
+    "split": "train"
+  },
+  {
+    "text": "Peixe assado com batatas e legumes",
+    "category": "refeicao",
+    "split": "train"
+  },
+  {
+    "text": "Bowl de tofu com arroz integral",
+    "category": "refeicao",
+    "split": "train"
+  },
+  {
+    "text": "Risoto de cogumelos com parmesão",
+    "category": "refeicao",
+    "split": "train"
+  },
+  {
+    "text": "Frango ao curry com arroz",
+    "category": "refeicao",
+    "split": "train"
+  },
+  {
+    "text": "Bife acebolado com feijão e arroz",
+    "category": "refeicao",
+    "split": "train"
+  },
+  {
+    "text": "Frango assado com arroz e salada",
+    "category": "refeicao",
+    "split": "test"
+  },
+  {
+    "text": "Carne moída com arroz e legumes",
+    "category": "refeicao",
+    "split": "test"
+  },
+  {
+    "text": "Peixe grelhado com arroz integral",
+    "category": "refeicao",
+    "split": "test"
+  },
+  {
+    "text": "Bowl de legumes com tofu e feijão",
+    "category": "refeicao",
+    "split": "test"
+  },
+  {
+    "text": "Salada de folhas com tomate e cenoura",
+    "category": "salada",
+    "split": "train"
+  },
+  {
+    "text": "Salada de quinoa com pepino",
+    "category": "salada",
+    "split": "train"
+  },
+  {
+    "text": "Salada caesar com alface e croutons",
+    "category": "salada",
+    "split": "train"
+  },
+  {
+    "text": "Salada de grão-de-bico com folhas",
+    "category": "salada",
+    "split": "train"
+  },
+  {
+    "text": "Salada caprese com tomate e queijo",
+    "category": "salada",
+    "split": "train"
+  },
+  {
+    "text": "Salada de rúcula com manga",
+    "category": "salada",
+    "split": "train"
+  },
+  {
+    "text": "Salada de lentilha com pepino",
+    "category": "salada",
+    "split": "train"
+  },
+  {
+    "text": "Salada tropical de folhas e frutas",
+    "category": "salada",
+    "split": "train"
+  },
+  {
+    "text": "Salada de alface e tomate cereja",
+    "category": "salada",
+    "split": "test"
+  },
+  {
+    "text": "Salada de quinoa com folhas verdes",
+    "category": "salada",
+    "split": "test"
+  },
+  {
+    "text": "Salada de rúcula com cenoura ralada",
+    "category": "salada",
+    "split": "test"
+  },
+  {
+    "text": "Salada de grão-de-bico com pepino e tomate",
+    "category": "salada",
+    "split": "test"
+  }
+]
